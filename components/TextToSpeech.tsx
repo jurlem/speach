@@ -90,14 +90,14 @@ const TextToSpeech: NextPage = () => {
           mt: 'auto',
         }}
       >
-        <Container >
+        <Stack direction='row' >
           <Typography variant="body2">
-            Merle Jansen
+            Merle Jansen 2021 {' '}
           </Typography>
           <Link color="inherit" href="https://github.com/jurlem/speach/tree/main">
             Github
-          </Link>{' '}
-        </Container>
+          </Link>
+        </Stack>
       </Box>
     </Box>
   );
