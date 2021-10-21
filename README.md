@@ -23,4 +23,5 @@ This project is Speech-To-Text, used stack:
 
 
 ## Deployed on Vercel
+https://speach.vercel.app/
 
